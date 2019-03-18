@@ -4,3 +4,4 @@ Extras:
 
 - git
 - rsync
+- openssh
